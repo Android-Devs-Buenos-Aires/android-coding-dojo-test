@@ -1,4 +1,12 @@
-# Coding dojo
+# Android Devs Buenos Aires
+
+Repositorio relacionado al evento **Coding Dojo Mobile** realizado el 30 de Junio de 2016.
+
+ - _Evento:_ [Coding Dojo Mobile](https://www.meetup.com/es-ES/Android-Devs-Buenos-Aires/events/231826550/)
+
+### Descripción del Repositorio
+
+#### Coding dojo
 
 Compartimos con ustedes el código utilizado en la coding dojo realizada por Globallogic.
 
@@ -6,11 +14,11 @@ La aplicación se trata de un lector de RSS (en xml) donde se comparten las nove
 
 La api se encuentra mockeada en [Apiary](https://apiary.io/).
 
-## Arquitectura clean
+##### Arquitectura clean
 
 ![Clean architecture](https://s32.postimg.org/44nr3ojbp/Architecture.png)
 
-## Tests
+##### Tests
 
 El ejemplo cuenta con 3 test principales:
 * Mapper: Para asegurar el funcionamiento del pasaje de Dto a Model
